@@ -1,0 +1,11 @@
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\bin\Debug\netcoreapp2.1\GraceMarks.deps.json
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\bin\Debug\netcoreapp2.1\GraceMarks.runtimeconfig.json
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\bin\Debug\netcoreapp2.1\GraceMarks.runtimeconfig.dev.json
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\bin\Debug\netcoreapp2.1\GraceMarks.dll
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\bin\Debug\netcoreapp2.1\GraceMarks.pdb
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\obj\Debug\netcoreapp2.1\GraceMarks.csprojAssemblyReference.cache
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\obj\Debug\netcoreapp2.1\GraceMarks.csproj.CoreCompileInputs.cache
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\obj\Debug\netcoreapp2.1\GraceMarks.AssemblyInfoInputs.cache
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\obj\Debug\netcoreapp2.1\GraceMarks.AssemblyInfo.cs
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\obj\Debug\netcoreapp2.1\GraceMarks.dll
+C:\Users\Akron1\source\repos\GraceMarks\GraceMarks\obj\Debug\netcoreapp2.1\GraceMarks.pdb
